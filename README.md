@@ -1,4 +1,5 @@
 
+
 ## Description
 This project is a simple Spring Boot RESTful API for managing items (like ecommerce products).
 It supports adding items and fetching items by ID using in-memory storage.
@@ -48,3 +49,5 @@ GET /api/items/{id}
 "category":"Electronics",
 "brand":"Apple"
 }
+
+
